@@ -1,2 +1,0 @@
-# chatapp
-Group chat app
